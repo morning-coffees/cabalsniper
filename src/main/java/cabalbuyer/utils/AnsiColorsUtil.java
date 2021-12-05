@@ -2,7 +2,7 @@ package cabalbuyer.utils;
 
 public class AnsiColorsUtil {
 	
-	private AnsiColorsUtil() {};
+	private AnsiColorsUtil() {}
 	
 	public static final String ANSI_RESET = "\u001B[0m";
 	public static final String ANSI_BLACK = "\u001B[30m";
